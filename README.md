@@ -18,7 +18,7 @@ Las empresas analizadas son:
 
 - Tesla (TSLA)
 
-🎯 Objetivo del proyecto
+# 🎯Objetivo del proyecto
 
 - Analizar la evolución histórica de precios (10 años).
 - Calcular indicadores técnicos clave para trading y análisis cuantitativo.
@@ -26,7 +26,8 @@ Las empresas analizadas son:
 - Explorar visualmente los datos con gráficos interactivos en Plotly.
 - Generar un pipeline reproducible para análisis financiero en Python.
 
-🧠 Metodología
+# 🧠Metodología
+
 1. Obtención de datos
 - Descarga de datos históricos desde Yahoo Finance usando yfinance.
 - Frecuencia diaria desde 2014 hasta la fecha actual.
@@ -53,13 +54,15 @@ Las empresas analizadas son:
   - Promedios, máximos y mínimos
   - Indicadores técnicos superpuestos
 
-📊 Visualizaciones
+# 📊Visualizaciones
+
 - Gráficos interactivos con Plotly
 - Menús dinámicos para seleccionar métricas
 - Anotaciones automáticas de máximos, mínimos y promedios
 - Estilo plotly_dark orientado a análisis financiero
 
-🛠️ Tecnologías utilizadas
+# 🛠️Tecnologías utilizadas
+
 - Python
 - pandas / numpy
 - yfinance
@@ -68,7 +71,8 @@ Las empresas analizadas son:
 - plotly
 - scipy
 
-📂 Estructura del proyecto
+# 📂Estructura del proyecto
+
 ├── Análisis de acciones de las 7 empresas de la IA.py
 ├── AAPL1424.csv
 ├── AMZN1424.csv
@@ -79,28 +83,13 @@ Las empresas analizadas son:
 ├── TSLA1424.csv
 └── README.md
 
-▶️ Cómo ejecutar el proyecto
 
-Clonar el repositorio
-
-git clone https://github.com/tu_usuario/nombre_del_repo.git
-
-
-Instalar dependencias
-
-pip install pandas numpy yfinance ta plotly matplotlib scipy
-
-
-Ejecutar el script
-
-python "Análisis de acciones de las 7 empresas de la IA.py"
-
-⚠️ Disclaimer
+# ⚠️Disclaimer
 
 Este proyecto tiene fines educativos y analíticos.
 No constituye asesoramiento financiero ni recomendaciones de inversión.
 
-👤 Autor
+# 👤Autor
 
 Flavia Hepp
-Data Science · Análisis Financiero · Machine Learning
+Data Science en formación · Análisis Financiero · Machine Learning
