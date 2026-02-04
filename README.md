@@ -32,6 +32,7 @@ Las empresas analizadas son:
 - Descarga de datos históricos desde Yahoo Finance usando yfinance.
 - Frecuencia diaria desde 2014 hasta la fecha actual.
 
+
 2. Ingeniería de variables
 - Se calculan, entre otros:
 - ATR (Average True Range) – volatilidad
@@ -40,11 +41,13 @@ Las empresas analizadas son:
 - Log Returns y Percent Returns
 - Rendimientos acumulados
 
+
 3. Simulación de precios
 - Modelo de Movimiento Browniano Geométrico
 - Simulación de precios futuros a 1 año
 - Múltiples trayectorias por activo
 - Visualización interactiva de escenarios posibles
+
 
 4. Análisis Exploratorio (EDA)
 - Gráficos interactivos con menús desplegables
